@@ -1,4 +1,4 @@
-# GSoC Issue Hunter <img src="[https://api.iconify.design/lucide:target.svg](https://api.iconify.design/lucide:target.svg)" width="28" height="28" valign="middle" alt="Target icon" />
+# GSoC Issue Hunter <img src="https://api.iconify.design/lucide:target.svg" width="28" height="28" valign="middle" alt="Target icon" />
 
 [ English ](#english) | [ Español ](#spanish)
 
@@ -18,7 +18,7 @@ The project has two parts:
 
 | Dashboard View | Filter & Search |
 | :---: | :---: |
-| <img width="1920" height="829" alt="Dashboard View" src="[https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c](https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c)" /> | <img width="1920" height="849" alt="Filter & Search" src="[https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441](https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441)" /> |
+| <img width="1920" height="829" alt="image" src="https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c" /> | <img width="1920" height="849" alt="image" src="https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441" /> |
 
 ## Why
 
@@ -69,7 +69,7 @@ npm run dev
 The dashboard reads issue data from the local `issues.json` file by default. To point it at a JSON file hosted elsewhere (e.g. a raw GitHub URL), set:
 
 ```env
-ISSUES_JSON_URL=https://raw.githubusercontent.com/<owner>/<repo>/main/issues.json
+ISSUES_JSON_URL=[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<owner>/<repo>/main/issues.json
 ```
 
 To enable the commit history view, set:
@@ -112,7 +112,7 @@ El proyecto consta de dos partes:
 
 | Vista Principal del Dashboard | Filtros y Búsqueda |
 | :---: | :---: |
-| <img width="1920" height="829" alt="Vista del Dashboard" src="[https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c](https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c)" /> | <img width="1920" height="849" alt="Filtros y Búsqueda" src="[https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441](https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441)" /> |
+| <img width="1920" height="829" alt="image" src="https://github.com/user-attachments/assets/cc705367-666b-4650-8576-47bc76a1e75c" /> | <img width="1920" height="849" alt="image" src="https://github.com/user-attachments/assets/c5d57fdc-fa0a-4519-a306-81496aece441" /> |
 
 ## ¿Por qué?
 
@@ -163,7 +163,7 @@ npm run dev
 El panel web lee los datos del archivo local `issues.json` por defecto. Para vincularlo a un JSON alojado en otro lugar (por ejemplo, una URL raw de GitHub), configura:
 
 ```env
-ISSUES_JSON_URL=https://raw.githubusercontent.com/<propietario>/<repositorio>/main/issues.json
+ISSUES_JSON_URL=[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<propietario>/<repositorio>/main/issues.json
 ```
 
 Para habilitar la vista de historial de commits, configura:
